@@ -1,8 +1,10 @@
 copyartifact:latest
 credentials:latest
+token-macro:latest
 email-ext:latest
 emailext-template:latest
 embeddable-build-status:latest
+scm-api:latest
 git:latest
 git-client:latest
 gitlab-logo:latest
