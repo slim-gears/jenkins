@@ -20,6 +20,7 @@ mapdb-api:latest
 matrix-auth:latest
 matrix-project:latest
 maven-plugin:latest
+next-build-number:latest
 pam-auth:latest
 role-strategy:latest
 scm-api:latest
